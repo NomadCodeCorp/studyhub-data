@@ -1,1 +1,91 @@
 
+[
+  {
+    "courseId": "4.0",
+    "name": "History"
+  },
+  {
+    "courseId": "4.0",
+    "name": "Geography"
+  },
+  {
+    "courseId": "4.0",
+    "name": "Polity"
+  },{
+    "courseId": "4.0",
+    "name": "Economics"
+  },{
+    "courseId": "4.0",
+    "name": "Physics"
+  },
+  {
+    "courseId": "4.0",
+    "name": "Chemistry"
+  },
+  {
+    "courseId": "4.0",
+    "name": "Biology"
+  },
+  {
+    "courseId": "4.0",
+    "name": "Static GK"
+  },{
+    "courseId": "3.0",
+    "name": "History"
+  },
+  {
+    "courseId": "3.0",
+    "name": "Geography"
+  },
+  {
+    "courseId": "3.0",
+    "name": "Polity"
+  },{
+    "courseId": "3.0",
+    "name": "Economics"
+  },{
+    "courseId": "3.0",
+    "name": "Physics"
+  },
+  {
+    "courseId": "3.0",
+    "name": "Chemistry"
+  },
+  {
+    "courseId": "3.0",
+    "name": "Biology"
+  },
+  {
+    "courseId": "3.0",
+    "name": "Static GK"
+  },{
+    "courseId": "3.0",
+    "name": "English"
+  },
+  {
+    "courseId": "3.0",
+    "name": "ENGLISH PYQ SERIES"
+  },
+  {
+    "courseId": "3.0",
+    "name": "GK PYQ SERIES 3"
+  },{
+    "courseId": "3.0",
+    "name": "GK PYQ SERIES 4"
+  },{
+    "courseId": "3.0",
+    "name": "GK PYQ SERIES 5"
+  },
+  {
+    "courseId": "3.0",
+    "name": "RAILWAYS PYQ NOTES"
+  },
+  {
+    "courseId": "3.0",
+    "name": "RAILWAYS PYQ NOTES 2.0"
+  },
+  {
+    "courseId": "3.0",
+    "name": "NITTO SERIES 2 NOTES"
+  },
+]
