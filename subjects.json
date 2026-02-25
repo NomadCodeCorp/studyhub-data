@@ -88,4 +88,41 @@
     "courseId": "3.0",
     "name": "NITTO SERIES 2 NOTES"
   },
+  {
+    "courseId": "2.0",
+    "name": "History"
+  },
+  {
+    "courseId": "2.0",
+    "name": "Geography"
+  },
+  {
+    "courseId": "2.0",
+    "name": "Polity"
+  },{
+    "courseId": "2.0",
+    "name": "Economics"
+  },{
+    "courseId": "2.0",
+    "name": "Physics"
+  },
+  {
+    "courseId": "2.0",
+    "name": "Chemistry"
+  },
+  {
+    "courseId": "2.0",
+    "name": "Biology"
+  },
+  {
+    "courseId": "2.0",
+    "name": "Static GK"
+  },{
+    "courseId": "2.0",
+    "name": "MindMaps English"
+  },
+  {
+    "courseId": "2.0",
+    "name": "MindMaps Hindi"
+  }
 ]
